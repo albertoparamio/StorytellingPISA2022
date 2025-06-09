@@ -16,6 +16,7 @@ Este proyecto, desarrollado en un notebook de Jupyter, tiene por objeto generar 
 - [Licencia](#9-licencia)
 - [Autor](#10-autor)
 - [Fuentes de Datos](#11-fuentes-de-datos)
+- [Visualización interactiva](#12-visualización-interactiva)
 
 ## 3. Motivación
 
