@@ -132,3 +132,10 @@ Los datos utilizados en este proyecto provienen del estudio internacional PISA 2
 
 - **Licencia de uso de los datos:**  
   Los datos están disponibles públicamente para fines de análisis, educación e investigación, bajo las condiciones establecidas por la OCDE.
+
+## 12 Visualización interactiva
+
+Puedes explorar la visualización de los resultados en Flourish aquí:
+
+👉 [Ver en Flourish](https://public.flourish.studio/story/3156918/)
+
