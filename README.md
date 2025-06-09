@@ -12,7 +12,7 @@ Este proyecto, desarrollado en un notebook de Jupyter, tiene por objeto generar 
 - [Instalación](#5-instalación)
 - [Estructura del Proyecto](#6-estructura-del-proyecto)
 - [Uso](#7-uso)
-- [Resultados Destacados](#8-resultados-destacados)
+- [Resultados Obtenidos](#8-resultados-obtenidos)
 - [Licencia](#9-licencia)
 - [Autor](#10-autor)
 - [Fuentes de Datos](#11-fuentes-de-datos)
