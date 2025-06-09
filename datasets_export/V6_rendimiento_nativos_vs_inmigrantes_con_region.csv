@@ -1,0 +1,235 @@
+CNT,Grupo,Media_Rendimiento,REGION
+ALB,Inmigrante 1ra generación,339.9228655172414,Europe
+ALB,Inmigrante 2da generación,325.3484777777778,Europe
+ALB,Nativo,368.64425291886545,Europe
+ARE,Inmigrante 1ra generación,474.8450394079023,Asia
+ARE,Inmigrante 2da generación,455.93764011874475,Asia
+ARE,Nativo,392.74147663125945,Asia
+ARG,Inmigrante 1ra generación,374.8161712686567,Americas
+ARG,Inmigrante 2da generación,381.35379123809525,Americas
+ARG,Nativo,389.2079196147729,Americas
+AUS,Inmigrante 1ra generación,498.89544986225894,Oceania
+AUS,Inmigrante 2da generación,505.85895268189057,Oceania
+AUS,Nativo,481.3657506212137,Oceania
+AUT,Inmigrante 1ra generación,448.5705398496241,Europe
+AUT,Inmigrante 2da generación,453.709195601173,Europe
+AUT,Nativo,504.04711009573543,Europe
+BEL,Inmigrante 1ra generación,444.02655889175264,Europe
+BEL,Inmigrante 2da generación,454.6067582513661,Europe
+BEL,Nativo,505.36511555724036,Europe
+BGR,Inmigrante 1ra generación,401.63317209302323,Europe
+BGR,Inmigrante 2da generación,379.9284222222222,Europe
+BGR,Nativo,418.62914788802385,Europe
+BRA,Inmigrante 1ra generación,332.26715416666667,Americas
+BRA,Inmigrante 2da generación,338.7175423076923,Americas
+BRA,Nativo,381.34828663007073,Americas
+BRN,Inmigrante 1ra generación,497.899224609375,Otro
+BRN,Inmigrante 2da generación,471.7003339506173,Otro
+BRN,Nativo,436.8500756107018,Otro
+CAN,Inmigrante 1ra generación,486.3585505157862,Americas
+CAN,Inmigrante 2da generación,503.06666192628654,Americas
+CAN,Nativo,481.0387110836569,Americas
+CHE,Inmigrante 1ra generación,472.60576816647915,Europe
+CHE,Inmigrante 2da generación,476.5997734571998,Europe
+CHE,Nativo,523.399353620573,Europe
+CHL,Inmigrante 1ra generación,392.7984958466454,Americas
+CHL,Inmigrante 2da generación,459.6656366197183,Americas
+CHL,Nativo,430.02773304390564,Americas
+COL,Inmigrante 1ra generación,373.4252901639344,Americas
+COL,Inmigrante 2da generación,336.64633636363635,Americas
+COL,Nativo,391.37603970259244,Americas
+CRI,Inmigrante 1ra generación,366.5229472340426,Americas
+CRI,Inmigrante 2da generación,370.9900212062257,Americas
+CRI,Nativo,386.406593344519,Americas
+CZE,Inmigrante 1ra generación,449.0393242038216,Europe
+CZE,Inmigrante 2da generación,492.84569569892477,Europe
+CZE,Nativo,500.4932869286683,Europe
+DEU,Inmigrante 1ra generación,404.3614813308688,Europe
+DEU,Inmigrante 2da generación,458.11057475247526,Europe
+DEU,Nativo,490.7838132749179,Europe
+DNK,Inmigrante 1ra generación,432.21722407002187,Europe
+DNK,Inmigrante 2da generación,438.07566801346803,Europe
+DNK,Nativo,490.6641821104699,Europe
+DOM,Inmigrante 1ra generación,329.0792739837398,Americas
+DOM,Inmigrante 2da generación,309.5675109589041,Americas
+DOM,Nativo,340.698658827095,Americas
+ESP,Inmigrante 1ra generación,437.2751202863962,Europe
+ESP,Inmigrante 2da generación,458.9350094484823,Europe
+ESP,Nativo,486.65800708605565,Europe
+EST,Inmigrante 1ra generación,484.8426565789473,Europe
+EST,Inmigrante 2da generación,493.47128713080167,Europe
+EST,Nativo,514.6371698562136,Europe
+FIN,Inmigrante 1ra generación,411.76046540284364,Europe
+FIN,Inmigrante 2da generación,435.22909951397327,Europe
+FIN,Nativo,487.2911274129889,Europe
+FRA,Inmigrante 1ra generación,407.16125825471704,Europe
+FRA,Inmigrante 2da generación,431.9154237715804,Europe
+FRA,Nativo,477.7656487037369,Europe
+GBR,Inmigrante 1ra generación,476.68307280080893,Europe
+GBR,Inmigrante 2da generación,500.5539118055556,Europe
+GBR,Nativo,480.56492221412304,Europe
+GEO,Inmigrante 1ra generación,376.89557777777776,Otro
+GEO,Inmigrante 2da generación,331.8339205882353,Otro
+GEO,Nativo,390.8617861316113,Otro
+GRC,Inmigrante 1ra generación,380.6248890510949,Europe
+GRC,Inmigrante 2da generación,406.16159890965736,Europe
+GRC,Nativo,437.9552448257468,Europe
+GTM,Inmigrante 1ra generación,376.636368,Americas
+GTM,Inmigrante 2da generación,290.76060588235293,Americas
+GTM,Nativo,345.58715254467756,Americas
+HKG,Inmigrante 1ra generación,529.892239909297,Asia
+HKG,Inmigrante 2da generación,544.6393906913446,Asia
+HKG,Nativo,548.6950802149353,Asia
+HRV,Inmigrante 1ra generación,457.3701726027398,Europe
+HRV,Inmigrante 2da generación,449.2782085339168,Europe
+HRV,Nativo,464.1754387867975,Europe
+HUN,Inmigrante 1ra generación,472.88970000000006,Europe
+HUN,Inmigrante 2da generación,499.5471231707317,Europe
+HUN,Nativo,479.5237281280951,Europe
+IDN,Inmigrante 1ra generación,308.37978,Asia
+IDN,Inmigrante 2da generación,322.58931875,Asia
+IDN,Nativo,379.21883197730835,Asia
+IRL,Inmigrante 1ra generación,483.058311682243,Europe
+IRL,Inmigrante 2da generación,487.7575154285714,Europe
+IRL,Nativo,493.52826633448876,Europe
+ISL,Inmigrante 1ra generación,419.3561171875,Europe
+ISL,Inmigrante 2da generación,434.72069130434784,Europe
+ISL,Nativo,461.8183727301893,Europe
+ISR,Inmigrante 1ra generación,406.4588277777778,Asia
+ISR,Inmigrante 2da generación,461.3850221448468,Asia
+ISR,Nativo,458.60663432386684,Asia
+ITA,Inmigrante 1ra generación,424.37630231362465,Europe
+ITA,Inmigrante 2da generación,447.6968083811711,Europe
+ITA,Nativo,478.58130502582867,Europe
+JAM,Inmigrante 1ra generación,355.04551764705883,Americas
+JAM,Inmigrante 2da generación,340.30157692307694,Americas
+JAM,Nativo,371.76795184893786,Americas
+JOR,Inmigrante 1ra generación,360.58416599264706,Asia
+JOR,Inmigrante 2da generación,370.4151445595855,Asia
+JOR,Nativo,359.7172441112243,Asia
+JPN,Inmigrante 1ra generación,,Asia
+JPN,Inmigrante 2da generación,,Asia
+JPN,Nativo,,Asia
+KAZ,Inmigrante 1ra generación,442.5875248472505,Asia
+KAZ,Inmigrante 2da generación,451.13300658914727,Asia
+KAZ,Nativo,445.88944445525294,Asia
+KHM,Inmigrante 1ra generación,237.24182000000002,Asia
+KHM,Inmigrante 2da generación,304.23151666666666,Asia
+KHM,Nativo,327.6337194978124,Asia
+KOR,Inmigrante 1ra generación,446.30903750000004,Asia
+KOR,Inmigrante 2da generación,543.2448666666667,Asia
+KOR,Nativo,531.2926029850746,Asia
+KSV,Inmigrante 1ra generación,352.56829259259257,Europe
+KSV,Inmigrante 2da generación,341.77704545454543,Europe
+KSV,Nativo,352.52802721604314,Europe
+LTU,Inmigrante 1ra generación,489.8669016129032,Europe
+LTU,Inmigrante 2da generación,453.2174981132075,Europe
+LTU,Nativo,471.65755453519535,Europe
+LVA,Inmigrante 1ra generación,486.2458324324324,Europe
+LVA,Inmigrante 2da generación,486.2046460992908,Europe
+LVA,Nativo,482.45578704523575,Europe
+MAC,Inmigrante 1ra generación,562.149500623053,Asia
+MAC,Inmigrante 2da generación,557.2086576785714,Asia
+MAC,Nativo,541.4964970132108,Asia
+MAR,Inmigrante 1ra generación,321.79013125,Africa
+MAR,Inmigrante 2da generación,306.46394375,Africa
+MAR,Nativo,363.6909261768588,Africa
+MDA,Inmigrante 1ra generación,373.16145312500004,Europe
+MDA,Inmigrante 2da generación,409.7587141025641,Europe
+MDA,Nativo,415.8186784979592,Europe
+MEX,Inmigrante 1ra generación,327.2840835820895,Americas
+MEX,Inmigrante 2da generación,355.1161580645161,Americas
+MEX,Nativo,396.3449226171244,Americas
+MKD,Inmigrante 1ra generación,366.6701867647059,Europe
+MKD,Inmigrante 2da generación,341.30658405797107,Europe
+MKD,Nativo,391.2733190947011,Europe
+MLT,Inmigrante 1ra generación,478.4781625454546,Europe
+MLT,Inmigrante 2da generación,447.1307073684211,Europe
+MLT,Nativo,468.8054391730141,Europe
+MNE,Inmigrante 1ra generación,406.902614556962,Europe
+MNE,Inmigrante 2da generación,415.0892099056604,Europe
+MNE,Nativo,405.62394290982854,Europe
+MNG,Inmigrante 1ra generación,353.81916,Asia
+MNG,Inmigrante 2da generación,360.87320714285715,Asia
+MNG,Nativo,424.15238498924737,Asia
+MYS,Inmigrante 1ra generación,380.84460869565214,Asia
+MYS,Inmigrante 2da generación,382.8732837837838,Asia
+MYS,Nativo,409.8685355708549,Asia
+NLD,Inmigrante 1ra generación,427.2489675324676,Europe
+NLD,Inmigrante 2da generación,448.04296908315564,Europe
+NLD,Nativo,499.07176249424765,Europe
+NOR,Inmigrante 1ra generación,432.4946935684647,Europe
+NOR,Inmigrante 2da generación,447.41197933450087,Europe
+NOR,Nativo,473.763123281756,Europe
+NZL,Inmigrante 1ra generación,480.4657386567164,Oceania
+NZL,Inmigrante 2da generación,496.2970041474655,Oceania
+NZL,Nativo,475.18251353763765,Oceania
+PAN,Inmigrante 1ra generación,397.1505208860759,Americas
+PAN,Inmigrante 2da generación,394.8212295081967,Americas
+PAN,Nativo,351.32081336416184,Americas
+PER,Inmigrante 1ra generación,387.6095111111111,Americas
+PER,Inmigrante 2da generación,308.369994117647,Americas
+PER,Nativo,394.42412780197446,Americas
+PHL,Inmigrante 1ra generación,305.16792333333336,Asia
+PHL,Inmigrante 2da generación,280.5191915662651,Asia
+PHL,Nativo,355.4508947375886,Asia
+POL,Inmigrante 1ra generación,442.2631017857143,Europe
+POL,Inmigrante 2da generación,558.451,Europe
+POL,Nativo,494.87066319771355,Europe
+PRT,Inmigrante 1ra generación,436.5492553488372,Europe
+PRT,Inmigrante 2da generación,463.7951880645162,Europe
+PRT,Nativo,478.95343804724934,Europe
+PRY,Inmigrante 1ra generación,354.5102902439025,Americas
+PRY,Inmigrante 2da generación,355.61064468085107,Americas
+PRY,Nativo,340.5280870096077,Americas
+PSE,Inmigrante 1ra generación,335.2308924242424,Asia
+PSE,Inmigrante 2da generación,352.85396637168145,Asia
+PSE,Nativo,365.08584515920273,Asia
+QAT,Inmigrante 1ra generación,445.6235327749684,Asia
+QAT,Inmigrante 2da generación,416.987053271028,Asia
+QAT,Nativo,377.0339887856258,Asia
+ROU,Inmigrante 1ra generación,438.26428888888887,Europe
+ROU,Inmigrante 2da generación,366.6777375,Europe
+ROU,Nativo,435.7693449330784,Europe
+SAU,Inmigrante 1ra generación,417.71959603729607,Asia
+SAU,Inmigrante 2da generación,413.40590340557276,Asia
+SAU,Nativo,385.9586769753886,Asia
+SGP,Inmigrante 1ra generación,588.3416424570912,Asia
+SGP,Inmigrante 2da generación,605.1814129655172,Asia
+SGP,Nativo,565.9168325722665,Asia
+SLV,Inmigrante 1ra generación,346.2337304347826,Americas
+SLV,Inmigrante 2da generación,307.7758842105263,Americas
+SLV,Nativo,345.22423015158336,Americas
+SRB,Inmigrante 1ra generación,437.0891240740741,Europe
+SRB,Inmigrante 2da generación,445.3431887096774,Europe
+SRB,Nativo,439.2455834640181,Europe
+SVK,Inmigrante 1ra generación,460.0951546875,Europe
+SVK,Inmigrante 2da generación,461.9820027027027,Europe
+SVK,Nativo,468.7586473702604,Europe
+SVN,Inmigrante 1ra generación,417.82814611528823,Europe
+SVN,Inmigrante 2da generación,431.79382170542635,Europe
+SVN,Nativo,476.94833387203164,Europe
+SWE,Inmigrante 1ra generación,422.8699299363057,Europe
+SWE,Inmigrante 2da generación,448.0934141975309,Europe
+SWE,Nativo,494.85634263969973,Europe
+TAP,Inmigrante 1ra generación,438.7220666666667,Asia
+TAP,Inmigrante 2da generación,495.008272,Asia
+TAP,Nativo,534.2392800687285,Asia
+THA,Inmigrante 1ra generación,369.2656138888889,Asia
+THA,Inmigrante 2da generación,369.03423740458015,Asia
+THA,Nativo,415.4995992795389,Asia
+TUR,Inmigrante 1ra generación,400.78296,Otro
+TUR,Inmigrante 2da generación,460.7241538461539,Otro
+TUR,Nativo,452.5701620297586,Otro
+URY,Inmigrante 1ra generación,424.06416875,Americas
+URY,Inmigrante 2da generación,413.8190913043478,Americas
+URY,Nativo,409.0898275825019,Americas
+USA,Inmigrante 1ra generación,440.21451904761904,Americas
+USA,Inmigrante 2da generación,459.76362145454544,Americas
+USA,Nativo,465.0214951372998,Americas
+UZB,Inmigrante 1ra generación,333.4876703703704,Asia
+UZB,Inmigrante 2da generación,340.4558625,Asia
+UZB,Nativo,364.1792309504018,Asia
+VNM,Inmigrante 1ra generación,422.3101666666667,Asia
+VNM,Inmigrante 2da generación,523.7554250000001,Asia
+VNM,Nativo,468.8204626794258,Asia
